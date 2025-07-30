@@ -4,10 +4,11 @@
   <a href="https://www.linkedin.com/in/sanghyeok-%E2%80%8Dlee-7030a3217/"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="30"/></a>
 </p>
 
-# 📚 Recent Research
+# 📚 Publications
 
 > \* indicates Equal Contribution.  
-> Click the **[<img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="22"/>GitHub]** or **[<img src="https://public.boxcloud.com/api/2.0/internal_files/804104772302/versions/860288648702/representations/png_paged_2048x2048/content/1.png?access_token=1!aWZHSGinAs-JpUSQr5VXRKJEg2qEck0zq4HJLKYLNc1Nf8TSgWJgjt9g3oyXFWLZWDtgh4Jb5a_HaF1_ktO-xL67VYklSE7Qow3geEvraPFw9rK5ep0_k1lNlpclMLXlXjLoMTswNAbjeKjOJCU2ddRSY1IFwEE5ZFu_sU_Gvakz8rahbGgS1FZq8C-3-prlXZUjvNciZVKHQlMoiOZsWMDaxNxs7QhpUlH5sUbFJpTnHZIhFa2aiBNR7hJNZMeU9xTKTUV1RMG-Y0IS1W2xHr5n8HRpM9jbuhpixhOQPP1UMQEPEznR-B-2SAXWkg4K1QwMDxavNUyGer24bL_NeBHrIQqogfcEnYMA44IfqI9AD3bwYtO2zvZhdB0daiEvXBUh46Tk0AWzV9k3WSmBQtTrA6oWjfMH0wNjRkp9El1btqOrUUMlpA0d-we8rxlDZ450lwZfHIEl0UaUHjEEp9O2zys_RlVyP0a2YWB3zI6jrbdiYAx2dR33jsHmu-XI6X76DLd0RRA67XwQROrXgPVbO71JUrY0etzNHVT93Dmp3NwkNyGDgKmxk3229RKRfVAsKrH9OAXliVaqClHwkjlGZ8Ff0qaClrii8OyHNdla2hFBCGb6Mwt5N-gY-RLgb-1lsBb5s8u1mXLAOHMhztF8kKmTrcfXfHYONZIZ2Qs.&shared_link=https%3A%2F%2Fcornell.app.box.com%2Fv%2Farxiv-logomark-small-png&box_client_name=box-content-preview&box_client_version=3.8.0" width="15"/>arXiv]** links to view the project or paper.
+> Click the **[<img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="22"/>GitHub]** or **[<img src="https://public.boxcloud.com/api/2.0/internal_files/804104772302/versions/860288648702/representations/png_paged_2048x2048/content/1.png?access_token=1!aWZHSGinAs-JpUSQr5VXRKJEg2qEck0zq4HJLKYLNc1Nf8TSgWJgjt9g3oyXFWLZWDtgh4Jb5a_HaF1_ktO-xL67VYklSE7Qow3geEvraPFw9rK5ep0_k1lNlpclMLXlXjLoMTswNAbjeKjOJCU2ddRSY1IFwEE5ZFu_sU_Gvakz8rahbGgS1FZq8C-3-prlXZUjvNciZVKHQlMoiOZsWMDaxNxs7QhpUlH5sUbFJpTnHZIhFa2aiBNR7hJNZMeU9xTKTUV1RMG-Y0IS1W2xHr5n8HRpM9jbuhpixhOQPP1UMQEPEznR-B-2SAXWkg4K1QwMDxavNUyGer24bL_NeBHrIQqogfcEnYMA44IfqI9AD3bwYtO2zvZhdB0daiEvXBUh46Tk0AWzV9k3WSmBQtTrA6oWjfMH0wNjRkp9El1btqOrUUMlpA0d-we8rxlDZ450lwZfHIEl0UaUHjEEp9O2zys_RlVyP0a2YWB3zI6jrbdiYAx2dR33jsHmu-XI6X76DLd0RRA67XwQROrXgPVbO71JUrY0etzNHVT93Dmp3NwkNyGDgKmxk3229RKRfVAsKrH9OAXliVaqClHwkjlGZ8Ff0qaClrii8OyHNdla2hFBCGb6Mwt5N-gY-RLgb-1lsBb5s8u1mXLAOHMhztF8kKmTrcfXfHYONZIZ2Qs.&shared_link=https%3A%2F%2Fcornell.app.box.com%2Fv%2Farxiv-logomark-small-png&box_client_name=box-content-preview&box_client_version=3.8.0" width="15"/>arXiv]** links to view the project or paper.  
+> Conference (C) / Journal (J) / Pre-print (P) / Under Review (U)
 
 ---
 
