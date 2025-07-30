@@ -31,6 +31,10 @@
   *Under Review, 2025*  
   **Sanghyeok Lee**, Juyeon Ko, Joonmyung Choi, Jongha Kim, Hyunwoo J. Kim  
 
+- **[U] TabFlash: Efficient Table Understanding with Progressive Question Conditioning and Token Focusing**  
+  *Under Review, 2025*  
+  Jongha Kim, Minseong Bae, **Sanghyeok Lee**, Jinsung Yoon, Hyunwoo J. Kim
+
 ---
 
 ##  **2024**
@@ -40,7 +44,7 @@
   Joonmyung Choi\*,**Sanghyeok Lee\***, Jaewon Chu, Minhyuk Choi, Hyunwoo J. Kim  
   [<img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="22"/>GitHub](https://github.com/mlvlab/vid-tldr) | [<img src="https://public.boxcloud.com/api/2.0/internal_files/804104772302/versions/860288648702/representations/png_paged_2048x2048/content/1.png?access_token=1!aWZHSGinAs-JpUSQr5VXRKJEg2qEck0zq4HJLKYLNc1Nf8TSgWJgjt9g3oyXFWLZWDtgh4Jb5a_HaF1_ktO-xL67VYklSE7Qow3geEvraPFw9rK5ep0_k1lNlpclMLXlXjLoMTswNAbjeKjOJCU2ddRSY1IFwEE5ZFu_sU_Gvakz8rahbGgS1FZq8C-3-prlXZUjvNciZVKHQlMoiOZsWMDaxNxs7QhpUlH5sUbFJpTnHZIhFa2aiBNR7hJNZMeU9xTKTUV1RMG-Y0IS1W2xHr5n8HRpM9jbuhpixhOQPP1UMQEPEznR-B-2SAXWkg4K1QwMDxavNUyGer24bL_NeBHrIQqogfcEnYMA44IfqI9AD3bwYtO2zvZhdB0daiEvXBUh46Tk0AWzV9k3WSmBQtTrA6oWjfMH0wNjRkp9El1btqOrUUMlpA0d-we8rxlDZ450lwZfHIEl0UaUHjEEp9O2zys_RlVyP0a2YWB3zI6jrbdiYAx2dR33jsHmu-XI6X76DLd0RRA67XwQROrXgPVbO71JUrY0etzNHVT93Dmp3NwkNyGDgKmxk3229RKRfVAsKrH9OAXliVaqClHwkjlGZ8Ff0qaClrii8OyHNdla2hFBCGb6Mwt5N-gY-RLgb-1lsBb5s8u1mXLAOHMhztF8kKmTrcfXfHYONZIZ2Qs.&shared_link=https%3A%2F%2Fcornell.app.box.com%2Fv%2Farxiv-logomark-small-png&box_client_name=box-content-preview&box_client_version=3.8.0" width="15"/>arXiv](https://arxiv.org/abs/2403.13347)
 
-- **[C5] Multi-criteria Token Fusion with One-step-ahead Attention for Efficient Vision**  
+- **[C5] Multi-criteria Token Fusion with One-step-ahead Attention for Efficient Vision Transformers**  
   *Conference on Computer Vision and Pattern Recognition (CVPR), 2024*  
   **Sanghyeok Lee\***, Joonmyung Choi\*, Hyunwoo J. Kim  
   [<img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="22"/>GitHub](https://github.com/mlvlab/MCTF) | [<img src="https://public.boxcloud.com/api/2.0/internal_files/804104772302/versions/860288648702/representations/png_paged_2048x2048/content/1.png?access_token=1!aWZHSGinAs-JpUSQr5VXRKJEg2qEck0zq4HJLKYLNc1Nf8TSgWJgjt9g3oyXFWLZWDtgh4Jb5a_HaF1_ktO-xL67VYklSE7Qow3geEvraPFw9rK5ep0_k1lNlpclMLXlXjLoMTswNAbjeKjOJCU2ddRSY1IFwEE5ZFu_sU_Gvakz8rahbGgS1FZq8C-3-prlXZUjvNciZVKHQlMoiOZsWMDaxNxs7QhpUlH5sUbFJpTnHZIhFa2aiBNR7hJNZMeU9xTKTUV1RMG-Y0IS1W2xHr5n8HRpM9jbuhpixhOQPP1UMQEPEznR-B-2SAXWkg4K1QwMDxavNUyGer24bL_NeBHrIQqogfcEnYMA44IfqI9AD3bwYtO2zvZhdB0daiEvXBUh46Tk0AWzV9k3WSmBQtTrA6oWjfMH0wNjRkp9El1btqOrUUMlpA0d-we8rxlDZ450lwZfHIEl0UaUHjEEp9O2zys_RlVyP0a2YWB3zI6jrbdiYAx2dR33jsHmu-XI6X76DLd0RRA67XwQROrXgPVbO71JUrY0etzNHVT93Dmp3NwkNyGDgKmxk3229RKRfVAsKrH9OAXliVaqClHwkjlGZ8Ff0qaClrii8OyHNdla2hFBCGb6Mwt5N-gY-RLgb-1lsBb5s8u1mXLAOHMhztF8kKmTrcfXfHYONZIZ2Qs.&shared_link=https%3A%2F%2Fcornell.app.box.com%2Fv%2Farxiv-logomark-small-png&box_client_name=box-content-preview&box_client_version=3.8.0" width="15"/>arXiv](https://arxiv.org/abs/2403.10030)
