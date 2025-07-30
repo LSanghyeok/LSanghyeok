@@ -16,7 +16,7 @@
 - **[C8] Representation Shift: Unifying Token Compression with FlashAttention**  
   *International Conference on Computer Vision (ICCV), 2025*  
   Joonmyung Choi\*, **Sanghyeok Lee\***, Byungoh Ko, Eunseo Kim, Jihyung Kil, Hyunwoo J. Kim  
-  (To appear)
+  [<img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="22"/>GitHub](https://github.com/mlvlab/Representation-Shift)
 
 - **[C7] EfficientViM: Efficient Vision Mamba with Hidden State Mixer based State Space Duality**  
   *Conference on Computer Vision and Pattern Recognition (CVPR), 2025*  
