@@ -11,6 +11,34 @@
 
 ---
 
+## **2026**
+
+- **[C10] Transferable Model-agnostic Vision-Language Model Adaptation for Efficient Weak-to-Strong Generalization**  
+  *AAAI Conference on Artificial Intelligence (AAAI), 2026 (**Oral Presentation**)*  
+  Jihwan Park, Taehoon song, **Sanghyeok Lee**, Miso Choi, Hyunwoo J. Kim  
+  [<img src="https://cdn.simpleicons.org/arxiv/CC0000" width="22" alt="arXiv"/>arXiv](https://www.arxiv.org/abs/2508.08604)
+
+- **[C9] TabFlash: Efficient Table Understanding with Progressive Question Conditioning and Token Focusing**  
+  *AAAI Conference on Artificial Intelligence (AAAI), 2026*  
+  Jongha Kim, Minseong Bae, **Sanghyeok Lee**, Jinsung Yoon, Hyunwoo J. Kim
+
+- **[U] GraphEvo-R1: Graph Evolution with Reinforcement Learning for Retrieval Augmented Generation**  
+  *Under Review*  
+  Jinyoung Park, **Sanghyeok Lee**, Omar Zia Khan, Hyunwoo J. Kim, Joo-Kyung Kim
+
+- **[U] SuperClip Pyramid with Positional Parameterization for Video Temporal Grounding**  
+  *Under Review*  
+  **Sanghyeok Lee**, Juyeon Ko, Joonmyung Choi, Jongha Kim, Hyunwoo J. Kim
+
+- **[U] DocPrune : Understanding Document Layouts for Efficient Token Compression in Question Answering**  
+  *Under Review*  
+  Joonmyung Choi, **Sanghyeok Lee**, Jongha Kim, Sehyung Kim, Dohwan Ko, Jihyung Kil, Hyunwoo J. Kim
+
+- **[U] MoE-GRPO: Optimizing Mixture-of-Experts via Reinforcement Learning in Vision-Language Models**  
+  *Under Review*  
+  Dohwan Ko, Jinyoung Park, Seoung Choi, **Sanghyeok Lee**, Seohyun Lee, Hyunwoo J. Kim
+---
+
 ##  **2025**
 
 - **[C8] Representation Shift: Unifying Token Compression with FlashAttention**  
@@ -26,19 +54,6 @@
 - **[J1] Parameter-Efficient Fine-Tuning via Meta-Regularizer**  
   *International Journal of Computer Vision (IJCV, Impact Factor:9.3), 2025*  
   Jinyoung Park, Juyeon Ko, **Sanghyeok Lee**, Joonmyung Choi, Hyunwoo J. Kim
-
-- **[U] SuperClip Pyramid with Positional Parameterization for Video Temporal Grounding**  
-  *Under Review, 2025*  
-  **Sanghyeok Lee**, Juyeon Ko, Joonmyung Choi, Jongha Kim, Hyunwoo J. Kim  
-
-- **[U] Transferable Model-agnostic Vision-Language Model Adaptation for Efficient Weak-to-Strong Generalization**  
-  *Under Review, 2025*  
-  Jihwan Park, Taehoon Song, **Sanghyeok Lee**, Miso Choi, Hyunwoo J. Kim  
-  [<img src="https://cdn.simpleicons.org/arxiv/CC0000" width="22" alt="arXiv"/>arXiv](https://www.arxiv.org/abs/2508.08604)
-
-- **[U] TabFlash: Efficient Table Understanding with Progressive Question Conditioning and Token Focusing**  
-  *Under Review, 2025*  
-  Jongha Kim, Minseong Bae, **Sanghyeok Lee**, Jinsung Yoon, Hyunwoo J. Kim
 
 ---
 
